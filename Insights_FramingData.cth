@@ -11,5 +11,13 @@ content:
 tags:
 - story
 - data
+=======
+premise: How to tell a story with Data according to Edward Tufte by Jim Stikeleather 
+content: 
+  quote: You are competing for the viewer’s time and attention, so make sure the narrative has a hook, momentum, or a captivating purpose
+  url: http://blogs.hbr.org/2013/04/how-to-tell-a-story-with-data/
+tags: 
+- story 
+- data 
 - compelling narrative
 - audience
