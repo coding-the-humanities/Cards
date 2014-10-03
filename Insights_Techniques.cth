@@ -1,0 +1,15 @@
+Techniques
+--------------------------------
+type: Insights
+subject: Information visualisation
+
+premise: Techniques for effective storytelling
+content: 
+	quote: |
+	  techniques such as the connected scatterplot, in which the points are connected lends itself for visualisation. Single-axis pair from parallel coordinates, are not very useful for analysis but can be quite  effective as storytelling devices for specific data.How well they work depends on structure and values. If the connected scatterplot results in a large number of tangled lines, it does not provide any value, but if the values change smoothly it can. The story’s end  has to provide a convenient starting point for exploration and goes beyond a simple slideshow. 
+		url: http://www.computer.org.proxy.uba.uva.nl:2048/csdl/mags/co/2013/05/mco2013050044.pdf
+tags:
+- scatterplot
+- data
+- presentation
+- storytelling
