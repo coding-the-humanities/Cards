@@ -1,10 +1,9 @@
 Mama, What is a Humanities?
 ---------------------------
 type:  Exercise
-subject: information visualisation
+subject: Information visualisation
 
-premise: |
-  A quasi-fictional future where the humanities as a discipline no longer exists
+premise: A quasi-fictional future where the humanities as a discipline no longer exists
 exercise:
   description: |
     Use the *NYT data* (up until the present) to explain what Humanities are to
