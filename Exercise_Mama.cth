@@ -5,16 +5,16 @@ subject: Information visualisation
 
 premise: A quasi-fictional future where the humanities as a discipline no longer exists
 exercise:
-  description: |
-    Use the *NYT data* (up until the present) to explain what Humanities are to
-    people from the future described above.
-  steps:
-  - Formulate a Hypothesis
-  - Gather Data
-  - Focus on *outliers*, exceptions, etc.
-  - Decide on a story
-  - Choose a visualization type that best fits this story
-  - Mock up the visualization
+	description: |
+		Use the *NYT data* (up until the present) to explain what Humanities are to
+		people from the future described above.
+	steps:
+	- Formulate a Hypothesis
+	- Gather Data
+	- Focus on *outliers*, exceptions, etc.
+	- Decide on a story
+	- Choose a visualization type that best fits this story
+	- Mock up the visualization
 material
 - Poster
 - Colored Pens
