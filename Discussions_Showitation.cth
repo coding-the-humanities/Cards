@@ -1,11 +1,12 @@
 Showitation
 -------------------
-type: Discussion
+type: Discussions
 subject: Information visualisation
 
 premise: Start discussion on good practises for data visualisation
 discussion:
-  description: There are many ways to show data and they all can be interpreted in different ways
+  description: There are many ways to show data and they all can be interpreted 
+    in different ways
   questions:
   - Did we use a good method of visualisation?
   - Or are there better ways of showing data?"
