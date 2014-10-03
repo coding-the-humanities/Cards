@@ -1,5 +1,5 @@
-Temporal structure
---------------------------------
+Temporal Structure
+------------------
 type: Insights
 subject: Information visualisation
 
@@ -9,7 +9,7 @@ content:
     A fundamental feature of stories is that they provide a temporal structure, 
     even if it is not necessarily linear. Time is closely related to causality, 
     so providing the causal relationships between facts and events ties the 
-    individual parts together in a cohesive structure. 
+    individual parts together in a *cohesive structure*. 
   url: http://www.computer.org.proxy.uba.uva.nl:2048/csdl/mags/co/2013/05/mco2013050044.pdf
 tags:
 - storytelling
